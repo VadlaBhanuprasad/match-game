@@ -1,0 +1,14 @@
+.thumbnail-image {
+  height: 90px;
+  width: 85px;
+  border-radius: 3px;
+}
+.image-list {
+  margin-bottom: 5px;
+}
+.btn {
+  border: none;
+  outline: none;
+  background-color: transparent;
+  width: 100%;
+}
